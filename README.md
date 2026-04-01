@@ -39,13 +39,13 @@ I am a proactive learner based in Pune, India, transitioning from a background i
 ---
 
 ### 📊 GitHub Stats
-![Sayali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula)
+![Sayali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayaliparhar&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayaliparhar&layout=compact&theme=dracula)
 
 ---
 
 ### 📬 Connect with Me
-- **LinkedIn:** [Sayali Parhar](REPLACE_WITH_LINKEDIN_URL)
+- **LinkedIn:** [Sayali Parhar](https://www.linkedin.com/in/sayali-parhar-1509801a1/)
 - **Email:** [sayaliparhar26@gmail.com](mailto:sayaliparhar26@gmail.com)
 - **Location:** Pune, India 📍
 
