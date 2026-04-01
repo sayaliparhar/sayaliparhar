@@ -39,9 +39,9 @@ I am a proactive learner based in Pune, India, transitioning from a background i
 ---
 
 ### 📊 GitHub Stats
-![Sayali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayaliparhar&show_icons=true&theme=dracula)
+![Sayali's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayaliParhar&show_icons=true&theme=dracula)
 ![My Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SayaliParhar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayaliparhar&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SayaliParhar&layout=compact&theme=dracula)
 
 ---
 
