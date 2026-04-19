@@ -30,12 +30,6 @@ I am a proactive learner based in Pune, India, transitioning from a background i
 *Deployed a highly available 3-tier web application across Multi-AZs.*
 * **Impact:** Used ASGs and ALBs to ensure scalability and fault tolerance.
 * **Key Tools:** Terraform Modules, AWS Auto Scaling, Load Balancers.
-
-#### [Serverless S3 Event Distributor](https://github.com/sayaliparhar/Serverless-S3-Event-Distributor.git)
-*Built an event-driven system using AWS Lambda to process file metadata in real-time.*
-* **Impact:** automated cross-service communication with SNS notifications.
-* **Key Tools:** AWS Lambda, S3, SNS, IAM.
-
 ---
 
 ### 📊 GitHub Stats
